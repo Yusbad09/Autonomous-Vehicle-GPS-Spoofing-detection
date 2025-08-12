@@ -69,6 +69,7 @@ Both models perform well, but XGBoost shows slightly better results on synthetic
 
 Option 1: Google Colab (Recommended)
 Open the .ipynb file in Colab
+https://colab.research.google.com/github/Yusbad09/Autonomous-Vehicle-GPS-Spoofing-detection/blob/main/final_gps_spoofing_research.ipynb#scrollTo=8299c071
 
 Run all cells in sequence
 
