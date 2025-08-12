@@ -1,4 +1,5 @@
 # Autonomous-Vehicle-GPS-Spoofing-detection
+
 Synthetic GPS + IMU Spoofing Detection using Machine Learning
 Overview
 This project demonstrates a machine learning pipeline for detecting GPS spoofing attacks using synthetic GPS and IMU (Inertial Measurement Unit) data.
@@ -7,6 +8,7 @@ The notebook is fully documented and designed for both educational purposes and 
 The system compares XGBoost and Random Forest classifiers for accuracy and performance in spoofing detection.
 
 **Dataset**
+
 Since real-world spoofing datasets are limited and often restricted for security reasons, this project uses a synthetic dataset generator that simulates:
 
 GPS coordinates with realistic noise
@@ -18,6 +20,7 @@ Spoofing attack scenarios (location jumps, inconsistent velocity, IMU mismatch)
 Synthetic data ensures fast execution and privacy-safe experimentation while maintaining realistic patterns.
 
 **Notebook Structure**
+
 The notebook is divided into the following main sections:
 
 Setup & Imports
@@ -55,6 +58,7 @@ Performance metrics table
 Recommendations for further tuning
 
 **Results Summary**
+
 Model	Accuracy	Precision	Recall	F1-Score
 XGBoost	~99%	High	High	High
 Random Forest	~98%	High	High	High
@@ -62,6 +66,7 @@ Random Forest	~98%	High	High	High
 Both models perform well, but XGBoost shows slightly better results on synthetic data.
 
 **How to Run**
+
 Option 1: Google Colab (Recommended)
 Open the .ipynb file in Colab
 
@@ -84,5 +89,6 @@ Deploy as a real-time detection system on embedded devices
 
 Integrate with multi-sensor fusion for resilience against spoofing
 
-License
+**License**
+
 This project is released under the MIT License for academic and research use
