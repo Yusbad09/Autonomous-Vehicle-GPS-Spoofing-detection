@@ -1,3 +1,8 @@
+## 🧑‍💻 Author
+
+Developed by **Yusuf Akinkunmi Badrudeen**  
+GitHub: (https://github.com/yusbad09)
+
 # 🚗 Autonomous Vehicle GPS Spoofing Detection
 
 This project implements a **GPS Spoofing Detection Pipeline** for autonomous vehicles, with:
@@ -121,9 +126,6 @@ Results will be saved under `outputs_cv/`.
 
 ---
 
-## 📈 Example Figures
-
-*(You can add screenshots of confusion matrices, ROC curves, and AE plots here once generated from your runs.)*
 
 ---
 
@@ -136,8 +138,4 @@ Results will be saved under `outputs_cv/`.
 
 ---
 
-## 🧑‍💻 Author
-
-Developed by **Yusuf Akinkunmi Badrudeen**  
-GitHub: [your-username](https://github.com/your-username)
 
